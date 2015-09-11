@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Name"
+        android:id="@+id/tvName_layout_product" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Qty"
+        android:id="@+id/tvQty_layout_product"
+        android:layout_below="@+id/tvName_layout_product"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Price"
+        android:id="@+id/tvPrice_layout_product"
+        android:paddingRight="10dp"
+        android:layout_below="@+id/tvName_layout_product"
+        android:layout_toRightOf="@+id/tvName_layout_product"
+        android:layout_toEndOf="@+id/tvName_layout_product"
+        android:layout_marginLeft="66dp"
+        android:layout_marginStart="66dp" />
+
+</RelativeLayout>

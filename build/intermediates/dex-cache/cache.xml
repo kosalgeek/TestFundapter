@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kosalmac/AndroidStudioProjects/TestFundapter/app/build/intermediates/exploded-aar/com.github.amigold.fundapter/library/1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="12e67307b10da7aad1bd09af41f281a2fed08d96">
+        <dex dex="/Users/kosalmac/AndroidStudioProjects/TestFundapter/app/build/intermediates/pre-dexed/debug/classes-57311673e9b4c9e24975e83fedc3a9d2e64c3dbb.jar" />
+    </item>
+
+</items>
