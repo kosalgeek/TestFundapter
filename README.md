@@ -5,5 +5,5 @@ This is source code of my sample on how to use Fundapter which is utilized a gen
 
 # Follow Me
 1. Check out my blog for other useful resources at http://www.kosalgeek.com
-2. Check out YouTube videos at https://youtube.com/c/kosalgeekvideos
+2. Check out YouTube videos at https://youtube.com/user/oumsaokosal
 3. Follow me at https://twitter.com/kosalgeek
